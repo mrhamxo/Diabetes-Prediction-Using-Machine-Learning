@@ -62,9 +62,9 @@ The data was split into training and testing sets. Several models were trained o
 The models were evaluated on the test set using accuracy, precision, recall, and F1-score. The Random Forest Classifier achieved the highest accuracy of 81.4%, making it the best-performing model in this project.
 
 ## Model Performance and ROC Graphs
-![roc_diabetes](https://github.com/user-attachments/assets/4623227f-53eb-4c96-ae70-7310adffffb3)
+![PE_diabetes](https://github.com/user-attachments/assets/5c1df603-8919-4a99-b0c6-338079677e06)
 
-![PE_diabetes](https://github.com/user-attachments/assets/79a95844-828b-4ef0-b880-8c15b86cecea)
+![roc_diabetes](https://github.com/user-attachments/assets/1ce9d596-238c-4c78-b101-5401237bd6a4)
 
 ## Project Conclusion
 The Random Forest Classifier proved to be the most effective algorithm for predicting diabetes with an accuracy of 81.4%. However, other models like Gradient Boosting Classifier and SVM also showed competitive performance. The feature engineering steps, particularly one-hot encoding and feature scaling, played a crucial role in improving the model's accuracy.
